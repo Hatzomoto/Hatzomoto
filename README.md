@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Camilo Palma</h1>
-<h3 align="center">A passionate Fullstack developer from Chile</h3>
+<h1 align="center">Hi 👋, I'm Camilo</h1>
+<h3 align="center">A passionate Fullstack Javascript developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatzomoto&label=Profile%20views&color=0e75b6&style=flat" alt="hatzomoto" /> </p>
 
-- 🔭 I’m currently working on **Buscando trabajo**
+- 🔭 I’m currently working on **mi desarrollo profesional**
 
 - 🌱 I’m currently learning **React y Angular**
 
-- 👯 I’m looking to collaborate on **Seguir aprendiendo programación**
-
-- 🤝 I’m looking for help with **Experiencia**
+- 👯 I’m looking to collaborate on **un proyecto**
 
 - 💬 Ask me about **Javascript**
 
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hatzomoto&show_icons=true&theme=dark&locale=en&layout=compact" alt="hatzomoto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hatzomoto&show_icons=true&theme=dark&locale=en" alt="hatzomoto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatzomoto&theme=highcontrast" alt="hatzomoto" /></p>
